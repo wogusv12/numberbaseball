@@ -1,0 +1,24 @@
+Strike = 0
+ball = 1
+
+abc
+1번째자리에 a x 2번째자리에 b x 세번째자리에 c X
+
+2번째,3번째 자리에 a 거나 
+
+1,3번째 b 
+
+1,2 c
+
+a 
+
+
+a 2 일때 b 1,3 or c 1
+a 3 일때 b 1 or c 1,2
+
+b 1 일때 a 2, 3 or c 2
+b 3 일때 a 2 or c 1,2
+
+c 1 일때 a 2,3 or b 3
+c 2 일때 a 3 or b 1, 3
+
