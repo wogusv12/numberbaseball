@@ -8,3 +8,13 @@ C:\Users\Jaehyeon kim\source\repos\numberbaseball\numberbaseball\obj\Debug\numbe
 C:\Users\Jaehyeon kim\source\repos\numberbaseball\numberbaseball\obj\Debug\numberbaseball.csproj.CoreCompileInputs.cache
 C:\Users\Jaehyeon kim\source\repos\numberbaseball\numberbaseball\obj\Debug\numberbaseball.exe
 C:\Users\Jaehyeon kim\source\repos\numberbaseball\numberbaseball\obj\Debug\numberbaseball.pdb
+C:\project\numberbaseball\numberbaseball\bin\Debug\numberbaseball.exe.config
+C:\project\numberbaseball\numberbaseball\bin\Debug\numberbaseball.exe
+C:\project\numberbaseball\numberbaseball\bin\Debug\numberbaseball.pdb
+C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.csprojAssemblyReference.cache
+C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.Form1.resources
+C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.Properties.Resources.resources
+C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.csproj.GenerateResource.cache
+C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.csproj.CoreCompileInputs.cache
+C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.exe
+C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.pdb
