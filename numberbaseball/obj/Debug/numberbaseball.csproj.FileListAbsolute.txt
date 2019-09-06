@@ -18,3 +18,7 @@ C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.csproj.Generat
 C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.csproj.CoreCompileInputs.cache
 C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.exe
 C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.pdb
+C:\project\numberbaseball\numberbaseball\bin\Debug\numberbaseball.exe.manifest
+C:\project\numberbaseball\numberbaseball\bin\Debug\numberbaseball.application
+C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.exe.manifest
+C:\project\numberbaseball\numberbaseball\obj\Debug\numberbaseball.application
